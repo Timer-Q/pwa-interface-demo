@@ -20,7 +20,7 @@ module.exports = {
   deploy : {
     production : {
       user : 'node',
-      host : '212.83.163.1',
+      host : '172.18.27.46',
       ref  : 'origin/master',
       repo : 'git@github.com:repo.git',
       path : '/var/www/production',
